@@ -1,0 +1,9 @@
+apiVersion: infra.github.ibm.com/v1
+kind: SSEtcdCluster
+metadata:
+  labels:
+    controller-tools.k8s.io: "1.0"
+  name: myetcd
+spec:
+  # Add fields here
+  foo: bar

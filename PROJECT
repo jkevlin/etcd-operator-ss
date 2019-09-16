@@ -1,0 +1,3 @@
+version: "1"
+domain: github.ibm.com
+repo: github.com/jkevlin/etcd-operator-statefulset
